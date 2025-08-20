@@ -93,7 +93,7 @@ print("RMSE = ",rmse)
 ## Output:
 To Read Head and Tail Files
 <img width="287" height="252" alt="image" src="https://github.com/user-attachments/assets/c59148fc-8c95-4bca-9373-becf859c323f" />
-
+#Compare data sets
 <img width="333" height="261" alt="image" src="https://github.com/user-attachments/assets/3bc9a389-5f3e-469f-bcbf-fb5bfed83c5d" />
 
 #Segregating data to variables
