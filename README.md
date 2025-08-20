@@ -100,7 +100,7 @@ To Read Head and Tail Files
 
 <img width="333" height="261" alt="image" src="https://github.com/user-attachments/assets/3bc9a389-5f3e-469f-bcbf-fb5bfed83c5d" />
 
-#Segregating data to variables
+Segregating data to variables
 
 
 <img width="359" height="666" alt="image" src="https://github.com/user-attachments/assets/1a37e25c-7c7e-4ab2-8507-7597652f5127" />
@@ -134,9 +134,6 @@ Calculate Mean Absolute Error (MAE) and Mean Squared Error(MSE)
 
 
 <img width="295" height="87" alt="image" src="https://github.com/user-attachments/assets/59e9b40a-ad0e-47dd-8cce-cb9e31ef651c" />
-
-
-
 
 
 
