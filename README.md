@@ -97,28 +97,42 @@ To Read Head and Tail Files
 <img width="287" height="252" alt="image" src="https://github.com/user-attachments/assets/c59148fc-8c95-4bca-9373-becf859c323f" />
 
 
-#Compare data sets
 
 <img width="333" height="261" alt="image" src="https://github.com/user-attachments/assets/3bc9a389-5f3e-469f-bcbf-fb5bfed83c5d" />
 
 #Segregating data to variables
+
+
 <img width="359" height="666" alt="image" src="https://github.com/user-attachments/assets/1a37e25c-7c7e-4ab2-8507-7597652f5127" />
 
+
+
 <img width="1032" height="72" alt="image" src="https://github.com/user-attachments/assets/227ea895-4734-4e9a-ac0b-a30264f5703e" />
+
 
 displaying predicted values
 <img width="926" height="75" alt="image" src="https://github.com/user-attachments/assets/aa431d2d-b0cc-45c3-8602-edf424341a61" />
 
 displaying actual values
+
+
 <img width="742" height="57" alt="image" src="https://github.com/user-attachments/assets/df03c1bf-3a64-4bf2-b17c-0d5e95c3d387" />
 
+
 graph plot for training data
+
+
 <img width="926" height="617" alt="image" src="https://github.com/user-attachments/assets/564222b6-5b6c-411e-854e-922113671b9f" />
 
+
 graph plot for test data
+
+
 <img width="858" height="632" alt="image" src="https://github.com/user-attachments/assets/b1c36307-c8bb-4ee2-a196-b0613bd41ac6" />
 
 Calculate Mean Absolute Error (MAE) and Mean Squared Error(MSE)
+
+
 <img width="295" height="87" alt="image" src="https://github.com/user-attachments/assets/59e9b40a-ad0e-47dd-8cce-cb9e31ef651c" />
 
 
