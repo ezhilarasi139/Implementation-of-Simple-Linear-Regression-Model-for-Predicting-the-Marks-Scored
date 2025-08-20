@@ -19,6 +19,8 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: EZHILARASI N
 RegisterNumber: 212224040088
+*/
+/*
 
 import pandas as pd
 import numpy as np
@@ -86,7 +88,7 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-displaying the content in  datafile
+To Read Head and Tail Files
 <img width="287" height="252" alt="image" src="https://github.com/user-attachments/assets/c59148fc-8c95-4bca-9373-becf859c323f" />
 
 <img width="333" height="261" alt="image" src="https://github.com/user-attachments/assets/3bc9a389-5f3e-469f-bcbf-fb5bfed83c5d" />
