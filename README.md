@@ -9,9 +9,13 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.import the needed packages.
+
 2.Assigning hours to x and scores to y.
+
 3.Plot the scatter plot.
+
 4.Use mse,rmse,mae formula to find the values.
+ 
 ## Program:
 ```
 /*
@@ -19,8 +23,8 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: EZHILARASI N
 RegisterNumber: 212224040088
 */
-/*
-
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -83,7 +87,7 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 
 
-*/
+
 ```
 
 ## Output:
